@@ -1,2 +1,3 @@
 # hello-word
 Indo para o próximo nível
+Eu me apaixonei por essa área quando eu percebi que estava procrastinando, após perder meu emprego por conta da pandemia, quis me apoiar em algo sólido, algo que podia acreditar e confiar, e foi aí que encontrei esse mundo gigante. Na real me dá muito medo de todas as tecnologias construídas ao longo do tempo e fico me perguntando onde eu estava enquanto isso. Tudo isso é fantástico e espero aprender muito e devorar todo o conteúdo, e quem sabe um dia poder contribuir também para que outras pessoas possam enxergar o que eu enxergo hoje! Programar é  onde eu encontrei o meu lugar no mundo! Então só pra começar  print('Olá,  mundo!').
